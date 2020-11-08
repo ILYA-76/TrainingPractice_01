@@ -1,0 +1,10 @@
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.exe
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.deps.json
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.runtimeconfig.json
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.runtimeconfig.dev.json
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.dll
+X:\VStd\TrainingPractice_01\SIG_Task_05\bin\Debug\netcoreapp3.1\SIG_Task_05.pdb
+X:\VStd\TrainingPractice_01\SIG_Task_05\obj\Debug\netcoreapp3.1\SIG_Task_05.AssemblyInfoInputs.cache
+X:\VStd\TrainingPractice_01\SIG_Task_05\obj\Debug\netcoreapp3.1\SIG_Task_05.AssemblyInfo.cs
+X:\VStd\TrainingPractice_01\SIG_Task_05\obj\Debug\netcoreapp3.1\SIG_Task_05.dll
+X:\VStd\TrainingPractice_01\SIG_Task_05\obj\Debug\netcoreapp3.1\SIG_Task_05.pdb

@@ -1,0 +1,11 @@
+X:\VStd\TrainingPractice_01\SIG_Task_03\obj\Debug\netcoreapp3.1\SIG_Task_03.csprojAssemblyReference.cache
+X:\VStd\TrainingPractice_01\SIG_Task_03\obj\Debug\netcoreapp3.1\SIG_Task_03.AssemblyInfoInputs.cache
+X:\VStd\TrainingPractice_01\SIG_Task_03\obj\Debug\netcoreapp3.1\SIG_Task_03.AssemblyInfo.cs
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.exe
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.deps.json
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.runtimeconfig.json
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.runtimeconfig.dev.json
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.dll
+X:\VStd\TrainingPractice_01\SIG_Task_03\bin\Debug\netcoreapp3.1\SIG_Task_03.pdb
+X:\VStd\TrainingPractice_01\SIG_Task_03\obj\Debug\netcoreapp3.1\SIG_Task_03.dll
+X:\VStd\TrainingPractice_01\SIG_Task_03\obj\Debug\netcoreapp3.1\SIG_Task_03.pdb
