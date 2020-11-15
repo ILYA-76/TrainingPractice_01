@@ -1,0 +1,8 @@
+X:\VStd\kresti\kresti\bin\Debug\kresti.dll
+X:\VStd\kresti\kresti\bin\Debug\kresti.pdb
+X:\VStd\kresti\kresti\obj\Debug\kresti.csprojAssemblyReference.cache
+X:\VStd\kresti\kresti\obj\Debug\AppCSharp.UserControl1.resources
+X:\VStd\kresti\kresti\obj\Debug\kresti.csproj.GenerateResource.cache
+X:\VStd\kresti\kresti\obj\Debug\kresti.dll
+X:\VStd\kresti\kresti\obj\Debug\kresti.pdb
+X:\VStd\kresti\kresti\obj\Debug\kresti.Properties.Resources.resources
